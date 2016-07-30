@@ -18,3 +18,17 @@ body {
     font-size: 6rem;
     padding-top:15px;
 }
+.num-pad{
+  margin-top: 20px;
+}
+.btn{
+  font-size: 6rem;
+  padding: 6px 20px;
+  margin: 6px 20px 6px 0px;
+  min-width: 85.7px;
+}
+.equal{
+  font-size: 14rem;
+  margin-top: -54px;
+  padding-left: 54px;
+}

@@ -40,7 +40,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+I am using firebase. There's an awesome guide [here](http://yoember.com/#lesson-4).
 
 ## Further Reading / Useful Links
 
