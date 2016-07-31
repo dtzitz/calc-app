@@ -1,6 +1,7 @@
 # Calc-app
 
-Building a calculator application with ember
+Building a calculator application with ember. 
+See it running [here](https://fcc-calc-ember-app.firebaseapp.com/)
 
 ## Prerequisites
 
